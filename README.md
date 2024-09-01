@@ -1,4 +1,8 @@
 # News Sentiment Analyzer
+This is the simplest sentiment analyzer that can be built.You just have to enter the link of the article you want to check the sentiments of and then it returns a value in range [-1,1].
+A value greater than 0 means a positive sentiment aka happy.
+A value equal to 0 means a neutral sentiment aka neutral.
+A value less than 0 means a negative sentiment aka sad.
 
 ## Description
 The News Sentiment Analyzer is a Python-based tool that extracts and analyzes the sentiment of news articles. Using the `TextBlob` library for sentiment analysis and `Newspaper3k` for article extraction, this tool helps in determining the polarity of news content. 
