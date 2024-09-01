@@ -37,7 +37,7 @@ The News Sentiment Analyzer is a Python-based tool that extracts and analyzes th
 
 2. Define the URL of the news article:
     ```python
-    url = 'https://www.cnbc.com/2024/08/31/warren-buffetts-berkshire-hathaway-sells-more-bank-of-america-has-now-cut-stake-by-nearly-15percent-.html'
+    url = 'your favourite news link over here'
     ```
 
 3. Extract and analyze the article:
